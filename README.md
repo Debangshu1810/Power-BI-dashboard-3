@@ -21,4 +21,4 @@ Sales Over Time (Line Chart) Tracks sales trend from Jan 2019 to Oct 2020 Helps 
 This dashboard transforms raw sales data into actionable insights, helping businesses:
 
 Optimize product strategy Improve logistics decisions Track performance efficiently Identify growth opportunities Power Bi project Link: https://github.com/Debangshu1810/Power-BI-dashboard-3/blob/main/Power%20BI%20Anu%20Ecommerce.pbix
-Project Screenshot: 
+Project Screenshot: https://github.com/Debangshu1810/Power-BI-dashboard-3/blob/main/Anu%20Ecommerce.png
