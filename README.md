@@ -1,24 +1,41 @@
-# Power-BI-dashboard-3
-Power-Bi-Dashboard-1📊 Nath Enterprise Pvt. Ltd. – Power BI Sales Dashboard
-🚀 Project Title & Headline
+📊 ANU E-Commerce Sales Dashboard (FY 2024–25)
+A dynamic Power BI dashboard designed to analyze sales performance, profit trends, and customer purchasing behavior across multiple dimensions.
+Description and Purpose:
+This dashboard provides a comprehensive overview of e-commerce sales data, helping stakeholders understand profit trends, payment preferences, category performance, and monthly sales fluctuations.It is built to support data-driven decision-making by identifying key business insights and performance drivers.
 
-Nath Enterprise Pvt. Ltd. Sales & Profit Analysis Dashboard An interactive Power BI dashboard designed to analyze sales performance, profit distribution, and operational efficiency across categories, regions, and shipment modes.
-
-🎯 Short Description / Purpose
-
-This dashboard provides a comprehensive overview of business performance for Nath Enterprise Pvt. Ltd. It helps stakeholders track key metrics such as total sales, profit, quantity sold, and regional performance.
-
-The goal of this project is to enable data-driven decision-making by identifying trends, high-performing categories, and operational inefficiencies.
-
-🛠️ Technologies Used Power BI Desktop (.pbit) Data Modeling & DAX Calculations Data Visualization Techniques GitHub (for version control & project sharing) 📂 Data Source Internal sales dataset (structured transactional data) Includes fields such as: Order Date Category & Sub-Category Sales & Profit Shipment Mode Region Quantity Sold ✨ Features & Highlights 📌 Interactive filters (Region, Sub-Category, Payment Mode) 📊 Dynamic KPI cards (Total Sales, Quantity Sold, State Coverage) 📈 Time-series analysis of sales trends 📦 Shipment mode performance tracking 🧩 Category and sub-category level breakdown 💡 Profit distribution insights 📊 Key Visuals & Design Choices
-
-Total Categorical Sales (Bar Chart) Used to compare Sales across Categories (Furniture, Technology, Office Supplies) Helps identify top-performing product segments
-Top 7 Sub-Category Sales (Column Chart) Displays highest revenue-generating sub-categories (Phones, Chairs, Binders, etc.) Designed to highlight revenue drivers
-Shipment Mode Analysis (Combo Chart) Combo of Bar (Sales) + Line (Profit) Shows relationship between shipping methods and profitability Helps optimize logistics decisions
-KPI Cards Total Sales: 1.57M Total Quantity Sold: 22K States Covered: 49 Provides quick snapshot of business performance
-Profit Distribution (Donut Chart) Shows contribution of top 8 sub-categories to total profit (175.26K) Useful for understanding profit concentration
-Sales Over Time (Line Chart) Tracks sales trend from Jan 2019 to Oct 2020 Helps identify seasonality and growth patterns 💼 Business Impact & Insights 📈 Office Supplies is the highest revenue-generating category (~0.64M) 📱 Phones and Chairs are top-performing sub-categories 🚚 Standard Class shipping contributes the highest sales and profit 📉 Same-day shipping has minimal contribution, indicating potential inefficiency 📊 Sales show an upward trend over time, indicating business growth 💰 Profit is concentrated in a few key sub-categories, suggesting focus areas for scaling 🧠 Conclusion
-This dashboard transforms raw sales data into actionable insights, helping businesses:
-
-Optimize product strategy Improve logistics decisions Track performance efficiently Identify growth opportunities Power Bi project Link: https://github.com/Debangshu1810/Power-BI-dashboard-3/blob/main/Power%20BI%20Anu%20Ecommerce.pbix
-Project Screenshot: https://github.com/Debangshu1810/Power-BI-dashboard-3/blob/main/Anu%20Ecommerce.png
+🛠️ Technologies Used
+Power BI – Data visualization & dashboard creation
+DAX (Data Analysis Expressions) – Measures and calculations
+Power Query – Data transformation & cleaning
+Excel / CSV – Data source handling
+📂 Data Source
+E-commerce transactional dataset (sales, profit, quantity, categories, payment modes)
+Includes fields like: Order, Amount, Profit, Quantity, Payment Mode, Product Category & Sub-categoryand Order Date (Month-wise breakdown).
+✨ Features & Highlights
+📅 Quarter-wise filtering (Q1–Q4 slicer)
+🌍 State-level filtering for regional analysis
+💳 Payment Mode Analysis (COD, UPI, Debit Card, Credit Card, EMI)
+📦 Category & Sub-category insights
+📈 Monthly Profit Trends visualization
+🔢 KPI Cards: Total Profit, Average Order Value, Total Sales Amount and Total Quantity Sold.
+Number of Sub-categories
+📊 Key Visuals & Design Choices
+1. Donut Chart – Payment Mode Analysis which Shows distribution of quantity sold by payment methodand Helps understand customer payment preferences
+Example Insight: COD dominates with ~43.7%
+2. Donut Chart – Category Distribution which Displays total quantity across categories (Clothing, Electronics, Furniture) and Highlights top-performing category
+Clothing contributes the highest share (~62.6%)
+3. Bar Chart – Monthly Profit Trend, Tracks profit performance across months, Identifies seasonal trends and loss periods and Negative profits clearly highlighted (e.g., May, July, December)
+4. Horizontal Bar Chart – Sub-category Profit and Compares profit contribution by sub-categories
+5. Top performers: Printers, Bookcases which Helps prioritize high-margin products
+6. KPI Cards
+Provide quick business snapshot:1) 121K Average Order Value 2) 438K Total Sales 3) 5615 Quantity Sold
+17 Sub-categories
+📈 Business Impact & Insights
+💡 Payment Insight: COD is the most preferred payment mode → Opportunity to promote digital payments (UPI, cards)
+📉 Loss Identification: Certain months show negative profit → Requires cost optimization or pricing strategy
+👕 Category Performance: Clothing dominates sales → Focus marketing & inventory here
+🖨️ Top Products: Printers & Bookcases generate highest profit → High-value product focus
+🎯 Strategic Decisions:Improve underperforming months, Optimize product mix and Enhance digital payment adoption
+📌 Conclusion: This dashboard enables businesses to monitor performance, identify trends, and optimize strategies efficiently. It transforms raw sales data into actionable insights for better decision-making.
+Project File Link:
+Project Screenshot Link:
