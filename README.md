@@ -37,5 +37,5 @@ Provide quick business snapshot:1) 121K Average Order Value 2) 438K Total Sales 
 🖨️ Top Products: Printers & Bookcases generate highest profit → High-value product focus
 🎯 Strategic Decisions:Improve underperforming months, Optimize product mix and Enhance digital payment adoption
 📌 Conclusion: This dashboard enables businesses to monitor performance, identify trends, and optimize strategies efficiently. It transforms raw sales data into actionable insights for better decision-making.
-Project File Link:
-Project Screenshot Link:
+Project File Link: https://github.com/Debangshu1810/Power-BI-dashboard-3/blob/main/Power%20BI%20Anu%20Ecommerce.pbix
+Project Screenshot Link: 
