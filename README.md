@@ -20,4 +20,5 @@ Profit Distribution (Donut Chart) Shows contribution of top 8 sub-categories to 
 Sales Over Time (Line Chart) Tracks sales trend from Jan 2019 to Oct 2020 Helps identify seasonality and growth patterns 💼 Business Impact & Insights 📈 Office Supplies is the highest revenue-generating category (~0.64M) 📱 Phones and Chairs are top-performing sub-categories 🚚 Standard Class shipping contributes the highest sales and profit 📉 Same-day shipping has minimal contribution, indicating potential inefficiency 📊 Sales show an upward trend over time, indicating business growth 💰 Profit is concentrated in a few key sub-categories, suggesting focus areas for scaling 🧠 Conclusion
 This dashboard transforms raw sales data into actionable insights, helping businesses:
 
-Optimize product strategy Improve logistics decisions Track performance efficiently Identify growth opportunities Power Bi projects:
+Optimize product strategy Improve logistics decisions Track performance efficiently Identify growth opportunities Power Bi project Link: https://github.com/Debangshu1810/Power-BI-dashboard-3/blob/main/Power%20BI%20Anu%20Ecommerce.pbix
+Project Screenshot: 
